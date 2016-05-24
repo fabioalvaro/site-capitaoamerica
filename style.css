@@ -1,0 +1,92 @@
+body{
+    background: center top no-repeat url("imagens/ondaSuperior.png");
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(235,249,250);
+}
+#topo{
+    /*    background: center top no-repeat url("imagens/path3918.png");*/
+    margin: 0px;
+    padding: 0px;
+    height: 159px;
+    text-align: center;
+
+}
+#titulo{
+    margin-top: 20px;
+}
+#winter_soldier{
+   margin-top: 10px;
+   margin-left: 426px;
+}
+#data{
+margin-top: 10px;
+margin-left: 101px;
+}
+
+#capitao{
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 0px;  
+}
+
+/*Bloco Pequeno*/
+#bloco_b{
+    float: left;
+    position: relative;
+    top: 467px;
+    left: -333px;
+    width: 263px;
+}
+/*Bloco Grande*/
+#bloco_a{
+    float: right;
+    position: relative;
+    top: -400px;
+    left: 26px;
+    width: 500px;
+}
+#video{
+    float: right;
+    position: relative;
+    top: -401px;
+    right: 20px;
+    width: 411px;
+}
+#envelope{
+    width: 1163px;
+    height:1055px;
+    margin: 0 auto;
+}
+
+
+
+
+#rodape{
+    /*    background: center top no-repeat url("imagens/path3920.png");*/
+    width: 100%;
+    background: url(imagens/onda_inferior_final.png) center top no-repeat;
+    margin: 0 auto;
+    height: 320px;    
+    float: left;
+    margin-top: -238px;
+}
+
+#envelope_do_rodape{
+    width: 1163px;
+    margin: 0 auto;
+    height: 234px;
+    padding-top: 75px;
+}
+divx{
+    border: red 1px solid;
+}
+.coluna_inferior{
+    float: left;
+    width: 300px;
+    margin-left: 61px;
+    height: 200px;
+    margin-top: 21px;
+}
+
